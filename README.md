@@ -47,7 +47,7 @@
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
     </a>
     <a href="https://eslint.org/" target="_blank" rel="noreferrer">
-        <img src="https://eslint.org/assets/img/favicon.512x512.png" alt="eslint" width="40" height="40" />
+        <img src="https://nx.dev/documentation/shared/eslint-logo.png" alt="eslint" width="40" height="40" />
     </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
@@ -66,6 +66,9 @@
     </a>
     <a href="https://graphql.org/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" alt="graphql" width="40" height="40" />
+    </a>
+    <a href="https://www.apollographql.com/" target="_blank" rel="noreferrer">
+        <img src="https://aws1.discourse-cdn.com/business5/uploads/apollographql/original/1X/25bd5104d61020fe4dc0777a5919cd009bca633e.png" alt="apollo" width="40" height="40" />
     </a>
     <a href="https://postman.com" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
