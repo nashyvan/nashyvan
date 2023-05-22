@@ -2,9 +2,9 @@
 
 🌱 I’m currently learning **NextJS**
 
-![Yarik's GitHub stats](https://github-readme-stats.vercel.app/api?username=yariknashivan&show_icons=true&count_private=true&hide=stars)
+![Yarik's GitHub stats](https://github-readme-stats.vercel.app/api?username=nashyvan&show_icons=true&count_private=true&hide=stars)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yariknashivan&layout=compact&hide=c,cmake,makefile)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nashyvan&layout=compact&hide=c,cmake,makefile)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
