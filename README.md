@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello. I'm Yarik Nashyvan</h1>
+<h1 align="center">👋 Hello. I'm Yaroslav Nashyvan</h1>
 
 🌱 I’m currently learning **NextJS**
 
