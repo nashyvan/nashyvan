@@ -1,91 +1,77 @@
-<h1 align="center">👋 Hello. I'm Yaroslav Nashyvan</h1>
+<h1 align="center">Hi, I'm Yaroslav Nashyvan 👋</h1>
 
-🌱 I’m currently learning **NextJS**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=2F81F7&center=true&vCenter=true&width=640&lines=Full-stack+TypeScript+engineer;Next.js+%C2%B7+PostgreSQL+%C2%B7+Docker;Building+LLM-powered+product+features" alt="Full-stack TypeScript engineer · Next.js · PostgreSQL · Docker · Building LLM-powered product features" />
+</p>
 
-![Yarik's GitHub stats](https://github-readme-stats.vercel.app/api?username=nashyvan&show_icons=true&count_private=true&hide=stars)
+Full-stack TypeScript engineer building production web systems end to end: database schema, typed APIs, UI, CI/CD and the Linux servers they run on. Building for the web since 2016, including five years of freelance work on e-commerce platforms, ERP integrations and large product catalogs.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nashyvan&layout=compact&hide=c,cmake,makefile)](https://github.com/anuraghazra/github-readme-stats)
+🌱 **Currently learning:** AI engineering: LLM APIs, structured outputs, evals and agentic workflows.
 
-<p align="left">
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-    </a>
-    <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" />
-    </a>
-    <!-- <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-        <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" alt="bootstrap" width="48" height="40" />
-    </a> -->
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
-    </a>
-    <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" alt="javascript" width="40" height="40" />
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-    </a>
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" alt="nextjs" width="40" height="40" />
-    </a>
-    <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" />
-    </a>
-    <a href="https://storybook.js.org/" target="_blank" rel="noreferrer">
-        <img src="https://pbs.twimg.com/profile_images/1100804485616566273/sOct-Txm_400x400.png" alt="storybook" width="40" height="40" />
-    </a>
-<!--     <a href="https://gulpjs.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.iconscout.com/icon/free/png-256/gulp-226000.png" alt="gulp" width="40" height="40" />
-    </a> -->
-    <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
-        <img src="https://habrastorage.org/webt/k-/tm/2g/k-tm2gvbb_ky6gdrd-tzqrzjkf4.png" alt="webpack" width="40" height="40" />
-    </a>
-<!--     <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> -->
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-    </a>
-    <a href="https://eslint.org/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/ESLint_logo.svg/1200px-ESLint_logo.svg.png" alt="eslint" width="45" height="40" />
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-    </a>
-    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" alt="mongodb" width="40" height="40" />
-    </a>
-    <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer">
-        <img src="https://seeklogo.com/images/Y/yarn-logo-F5E7A65FA2-seeklogo.com.png" alt="yarn" width="40" height="40" />
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
-    </a>
-    <a href="https://graphql.org/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" alt="graphql" width="40" height="40" />
-    </a>
-    <a href="https://www.apollographql.com/" target="_blank" rel="noreferrer">
-        <img src="https://global.discourse-cdn.com/business5/uploads/apollographql/original/1X/25bd5104d61020fe4dc0777a5919cd009bca633e.png" alt="apollo" width="40" height="40" />
-    </a>
-    <!-- <a href="https://postman.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
-    </a> -->
-    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
-    </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
-    </a>
-    <a href="https://neovim.io/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/1680px-Neovim-mark.svg.png" alt="nvim" width="30" height="40" />
-    </a>
+## 🧭 Focus
+
+- **Product engineering:** Next.js and React with Server Components, strict TypeScript and Zod-validated API contracts.
+- **APIs:** typed REST APIs with OpenAPI docs, idempotency keys, rate limiting and consistent errors.
+- **Data:** PostgreSQL with Prisma, zero-downtime migrations, full-text search, integration tests on real databases.
+- **Auth and security:** OAuth 2.0 + PKCE single sign-on across apps, Content Security Policy, per-user data isolation.
+- **Async and media:** Postgres-backed job queues, image and video processing, resumable uploads, S3 storage.
+- **Applied AI:** vision models extracting structured data, evaluated on golden sets with cost budgets; OpenCV in the browser.
+- **Frontend:** Tailwind CSS v4, shadcn/ui, installable offline PWAs, i18n and WCAG 2.2 AA accessibility.
+- **Quality:** Vitest, Playwright end-to-end tests on mobile browsers, visual regression and Storybook, all in CI.
+- **DevOps:** Docker, GitHub Actions to GHCR, SSH deploys with health checks and automatic rollback, Traefik and Caddy with automatic TLS, backups with restore drills.
+- **E-commerce:** 10,000+ SKU catalogs, GS1/GTIN product identification, ERP and CRM integrations.
+
+## 🛠️ Tech stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,tailwind,postgres,prisma,docker,linux,git&perline=10" alt="TypeScript, React, Next.js, Node.js, Tailwind CSS, PostgreSQL, Prisma, Docker, Linux, Git" />
+</p>
+
+**Frontend:**
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=radixui&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat-square)
+![D3](https://img.shields.io/badge/D3-F9A03C?style=flat-square&logo=d3&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
+
+**Backend and auth:**
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white)
+![Better Auth](https://img.shields.io/badge/Better_Auth-000000?style=flat-square&logo=betterauth&logoColor=white)
+![Auth.js](https://img.shields.io/badge/Auth.js-7C3AED?style=flat-square)
+![OAuth 2.0 + PKCE](https://img.shields.io/badge/OAuth_2.0_%2B_PKCE-EB5424?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+**AI and quality:**
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV.js-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
+
+**Infrastructure and tools:**
+![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white)
+![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white)
+![Hetzner](https://img.shields.io/badge/Hetzner_Cloud-D50C2D?style=flat-square&logo=hetzner&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-C74634?style=flat-square)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+## ⚙️ How I work
+
+- Specification first; tests, type checks and CI define "done".
+- Small Conventional Commits; infrastructure and deployment kept as code.
+- The simplest design that still scales; measure before optimizing.
+- AI-assisted development with human review of every change.
+
+## 📈 GitHub activity
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=nashyvan&theme=github-dark-blue&hide_border=true&background=0D111700" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=nashyvan&theme=default&hide_border=true&background=FFFFFF00" />
+    <img src="https://streak-stats.demolab.com?user=nashyvan&theme=default&hide_border=true" alt="GitHub contribution streak for nashyvan" />
+  </picture>
 </p>
